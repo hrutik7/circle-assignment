@@ -1,0 +1,35 @@
+
+
+
+.squre_1{
+  margin-left: auto;
+  margin-top: 200px;
+  border-style: solid;
+  border-color: blueviolet;
+  width: 50px;
+  height: 50px;
+
+  margin-left: 50%;
+}
+
+.circle{
+  margin-top: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+    margin-left: 34%;
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+}
+
+
+.squre_2{
+  margin-left: auto;
+  margin-top: 200px;
+  border-style: solid;
+  border-color: blueviolet;
+  width: 50px;
+  height: 50px;
+
+  margin-left: 50%;
+}
